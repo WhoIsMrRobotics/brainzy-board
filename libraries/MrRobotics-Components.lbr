@@ -234,7 +234,7 @@
 <rectangle x1="2.286" y1="-0.254" x2="2.794" y2="0.254" layer="51"/>
 <rectangle x1="-2.794" y1="-0.254" x2="-2.286" y2="0.254" layer="51"/>
 <text x="-1.27" y="-2.921" size="0.6096" layer="25" font="vector" ratio="20">&gt;NAME</text>
-<circle x="0" y="0" radius="4.572" width="0.254" layer="51"/>
+<circle x="0" y="0" radius="4.572" width="0.254" layer="21"/>
 <wire x1="-3.302" y1="-1.27" x2="-1.778" y2="-1.27" width="0.254" layer="21"/>
 </package>
 <package name="BLUETOOTH_SMD">
