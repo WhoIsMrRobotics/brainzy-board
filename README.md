@@ -50,7 +50,7 @@ Pour plus d'information, consultez notre site [www.mr-robotics.com](https://www.
 
 ## Comment l'obtenir ?
 
-Vous pouvez la commander directement sur notre site [shop.mr-robotics.com](https://shop.mr-robotics.com/) ou suivre les étapes suivantes :
+Vous pouvez la commander en [nous contactant](mailto:bonjour@mr-robotics.com) ou suivre les étapes suivantes :
 1. Réalisez le PCB à l'aide des fichiers GERBER.
 2. Commandez les composants répertoriés dans le fichier BOM, puis soudez les.
 3. Soudez une Teensy 3.5 en faisant attention aux indications suivantes.
